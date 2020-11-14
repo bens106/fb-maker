@@ -10,7 +10,7 @@ cara install di termux :
 
 -pkg install python2
 
--git clone https://github.com/tri-hermawan/fb-maker
+-git clone 
 
 -pip2 install mechanize
 
